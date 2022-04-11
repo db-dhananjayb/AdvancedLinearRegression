@@ -1,4 +1,4 @@
-# Advanced Linear Regression Assignment 
+# Advance Linear Regression Assignment 
 
 
 ## General Information 
